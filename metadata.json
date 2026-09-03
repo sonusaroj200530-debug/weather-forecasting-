@@ -1,0 +1,10 @@
+{
+  "name": "AtmosphereAI - Weather, Alert & Climate Assistant",
+  "description": "Conversational AI assistant for real-time weather forecasting, severe weather alerts, and climate insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
